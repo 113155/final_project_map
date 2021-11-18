@@ -15,7 +15,7 @@ import { newBook, displayListOfBooks } from "./services/booksService.js";
         HOME_PAGE_CONTENT = `
             <h2 class="my-4 text-center">Welcome to City Books Rental Services<sup>&reg;</sup></h2>
             <hr>
-            <img id="banner" src="../images/banner_gold.jpeg" alt="CityBooks Photo">
+            <img id="banner" src="/images/banner_gold.jpeg" alt="CityBooks Photo">
             <div class="mt-3"><p>
             We are a top flight, fully-digital Rental Store. Find out more about us and learn how we can
             serve you with a widest variety of books and lots of other digital content, all for your education
