@@ -1,0 +1,61 @@
+/* styles.css */
+
+/* .header{
+    border: 2px solid black;
+} */
+html{
+    min-height: 100%;
+}
+body{
+    margin-bottom: 100px;;
+}
+.footer{
+    background-color: rgba(236, 178, 91, 0.795); 
+    display: flex;
+    justify-content:space-between;
+    position:fixed;
+    bottom: 0;
+    width: 100%;
+    height:50px;
+    line-height: 50px;
+
+}
+.headerFlex{
+    justify-content: flex-start !important; 
+}
+.header{
+    background-color: rgb(238, 167, 74); 
+}
+h2{
+    color: rgb(196, 115, 11); 
+}
+.link1{
+    padding: 10px 20px;
+}
+.link2{
+    border-left: 1px solid;
+    padding: 10px 20px;
+    font-size: 15px;
+}
+.link3{
+    font-size: 15px;
+}
+.footLink1{
+    font-size: 15px;
+    margin-left: 125px;
+    color: black;
+}
+.footLink2{
+    font-size: 15px;
+    margin-right: 125px;
+    color: black;
+}
+
+.bodyContainer{
+    margin:0px 200px;
+}
+#banner{
+    width:100%;
+    height:300px;
+    object-fit: cover;
+}
